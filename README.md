@@ -10,9 +10,3 @@ The user can then swipe up to add a song to a playlist we create on Spotify. The
 Demo Video:
 https://www.youtube.com/watch?v=yKPUWH5zBPI&t=81s 
 
-
-# Running the App
-Make sure you have Java and Maven installed. Clone the repository and navigate into the project directory. Run the application using Maven:
-git clone https://github.com/justinsoberano/Spinder
-cd Spinder
-mvn spring-boot:run
