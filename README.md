@@ -10,3 +10,8 @@ The user can then swipe up to add a song to a playlist we create on Spotify. The
 Demo Video:
 https://www.youtube.com/watch?v=yKPUWH5zBPI&t=81s 
 
+# Installation & Runnning
+
+Make sure you have Java and Maven installed, then clone the repository and navigate into the project directory. Run the application using Maven:
+
+mvn spring-boot:run
